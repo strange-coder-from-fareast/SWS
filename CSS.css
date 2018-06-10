@@ -1,0 +1,12 @@
+herder {
+	background.color: green;
+	height: 90px;
+} 
+.main {
+	font-family: sans-serif;
+	background-color: red;
+	color: white;
+}
+footer {
+	background-color: blue;
+}
